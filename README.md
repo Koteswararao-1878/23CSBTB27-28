@@ -8,3 +8,4 @@
 8. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/ASS_4.ipynb]
 9. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/Assignment5.ipynb]
 10. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/Assignment_6.ipynb]
+11. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/assignment_7.ipynb]
