@@ -9,3 +9,4 @@
 9. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/Assignment5.ipynb]
 10. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/Assignment_6.ipynb]
 11. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/assignment_7.ipynb]
+12. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/Decision_Tree.ipynb]
