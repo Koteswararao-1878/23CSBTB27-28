@@ -11,3 +11,4 @@
 12. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/SVM.ipynb]
 13. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/Decision_Tree.ipynb]
 14. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/Random_Forest.ipynb]
+15. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/Exam_Logistic_Regressioin.ipynb]
