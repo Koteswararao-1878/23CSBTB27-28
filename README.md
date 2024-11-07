@@ -8,6 +8,6 @@
 8. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/ASS_4.ipynb]
 9. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/Assignment5.ipynb]
 11. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/KNN.ipyn]
-12. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/assignment_7.ipynb]
+12. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/SVM.ipynb]
 13. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/Decision_Tree.ipynb]
 14. [https://github.com/Koteswararao-1878/23CSBTB27-28/blob/main/Random_Forest.ipynb]
